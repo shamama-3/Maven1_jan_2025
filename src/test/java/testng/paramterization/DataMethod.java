@@ -29,7 +29,7 @@ DataMethod{
         searchBox.sendKeys(city+"   "+course);
         searchBox.click();
         Thread.sleep(3000);
-        driver.close();
+    
 
 
     }
