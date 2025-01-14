@@ -13,7 +13,7 @@ public class BeforeAfterMethodEx {
     }
     @BeforeMethod
     public void beforeMe(){
-        System.out.println("Before Method");
+        
     }
     @AfterMethod
     public void afterMe(){
