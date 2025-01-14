@@ -9,7 +9,7 @@ public class BasicOfTestNGEx {
     public void testCase_1(){
         WebDriver driver=new ChromeDriver();
         driver.get("https://mvnrepository.com/");
-        driver.close();
+        
     }
     @Test
     public void testCase_2(){
