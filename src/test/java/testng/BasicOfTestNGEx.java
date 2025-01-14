@@ -15,7 +15,7 @@ public class BasicOfTestNGEx {
     public void testCase_2(){
         WebDriver driver=new ChromeDriver();
         driver.get("https://mail.rediff.com/cgi-bin/login.cgi");
-         System.out.println("Before Class");
+        
         driver.close();
     }
 }
